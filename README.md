@@ -13,7 +13,7 @@ El objetivo de este examen es evaluar los conocimientos adquiridos en la materia
 
 ## Formato de entrega
 
-Para entregar el examen integrador, se debe trabajar sobre un fork del repositorio proveído por los profesores. EL FORK DEBE CONTENER EL APELLIDO DEL ALUMNO:
+Para entregar el examen integrador, se debe trabajar sobre un fork del repositorio proveído por los profesores. EL FORK DEBE CONTENER EL APELLIDO DEL ALUMNO: Paulina Olguin
 
 INTEGRADOR_PROGRAMACION_2026_APELLIDO
 
